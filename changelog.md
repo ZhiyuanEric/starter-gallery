@@ -14,22 +14,22 @@ First tutorial complete.
 
 -   controllers
 
-    -   serbian (AB)
+    -   serbian (Andra)
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
+    -   german (Eric)
+    -   hindi (Eric)
 
 -   models
 
-    -   italian (AB)
+    -   italian (Andra)
 
 -   views
 
-    -   slovenian (AB)
+    -   slovenian (Andra)
     -   swedish
 
 
